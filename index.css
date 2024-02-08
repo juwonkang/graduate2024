@@ -1,0 +1,29 @@
+#container {
+  width: 350px;
+  height: 700px;
+  background-color: beige;
+  margin: 0 auto;
+
+  border-radius: 20px;
+}
+#year {
+  margin: 0 auto;
+  text-align: center;
+}
+#hatimg {
+  width: 220px;
+  height: 220px;
+  margin-left: 63px;
+  margin-top: 30px;
+}
+
+#innersection {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#textbox {
+}
